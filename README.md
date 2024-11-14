@@ -1,7 +1,12 @@
 # See resources documentation [here](resources/README.md)
 
-# To make your own copy
-- Fork this using the 'fork' button
+# User Stories
+As a customer I want to be able to Filter my data
+As a customer I want to be able to compare different tables
+As a customer I want to be able to load data from a csv file
+As a customer I want to be able to load data from a json file
+As a customer I want to be able to represent my data in different ways
+
 
 # To sync
 - Use the command *replacing <YOUR_USERNAME> (including the <>) with your actual username*
